@@ -1,0 +1,8 @@
+.custom-list {
+  list-style-position: outside;
+}
+
+.custom-list li {
+  padding-left: 1em;
+  text-indent: -1em;
+}
