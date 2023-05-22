@@ -40,7 +40,7 @@ app.add_middleware(
 )
 
 
-os.environ['HUGGINGFACEHUB_API_TOKEN'] = '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'
+os.environ['HUGGINGFACEHUB_API_TOKEN'] = ''
 
 template = """Question: {question}
 
